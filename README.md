@@ -1,0 +1,2 @@
+# appStats
+KuAppStatsDataToResult
